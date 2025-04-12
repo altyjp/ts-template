@@ -1,4 +1,4 @@
-import { Adder } from "./Adder";
+import Adder from "./Adder";
 
 console.log('hello world!');
 const adder = new Adder(1, 2);

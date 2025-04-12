@@ -1,4 +1,4 @@
-export class Adder{
+export default class Adder{
 
     private ans: number;
 

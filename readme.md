@@ -16,3 +16,11 @@ npm install typescript --save-dev
 npm install @types/node --save-dev
 npx tsc --init --rootDir src --outDir lib --esModuleInterop --resolveJsonModule --lib es6,dom --module commonjs
 ```
+
+https://jestjs.io/ja/docs/getting-started
+
+```
+npm install --save-dev ts-jest
+npm i --save-dev @types/jest
+npx ts-jest config:init
+```
